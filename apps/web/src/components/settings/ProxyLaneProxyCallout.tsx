@@ -53,16 +53,14 @@ export function ProxyLaneProxyCallout() {
           <div className="pr-6 text-[11px] font-semibold uppercase tracking-wider text-slate-500">
             Sponsored · ProxyLane
           </div>
-          <h3 className="mt-1 text-base font-semibold text-slate-900">
-            Need a residential endpoint for this run?
-          </h3>
+          <h3 className="mt-1 text-base font-semibold text-slate-900">Need a residential proxy?</h3>
           <p className="mt-1 text-sm leading-6 text-slate-600">
-            Test a location-specific request or a sticky browser session. Start with 350 MB for
-            $1.95; unused traffic does not expire.
+            Choose a location for new browser sessions. Confirm availability before buying; unused
+            traffic does not expire.
           </p>
           <p className="mt-2 text-xs leading-5 text-slate-600">
-            <strong>HEADLESSX25</strong>: 25% off one purchase, including trial ($1.46). Once per
-            account; using it on trial uses the discount.
+            <strong>HEADLESSX35</strong>: 35% off the first non-trial purchase. Once per account; no
+            trial required.
           </p>
           <div className="mt-3 flex flex-wrap items-center gap-x-5 gap-y-3 text-sm font-semibold">
             <a
@@ -71,7 +69,7 @@ export function ProxyLaneProxyCallout() {
               rel="sponsored noopener noreferrer"
               className="inline-flex items-center gap-1 text-slate-900 underline underline-offset-4"
             >
-              View paid trial <HugeiconsIcon icon={LinkSquare01Icon} size={14} />
+              View packages <HugeiconsIcon icon={LinkSquare01Icon} size={14} />
             </a>
             <a
               href={GUIDE_URL}

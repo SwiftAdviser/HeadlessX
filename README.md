@@ -170,12 +170,12 @@ I'm thankful to the people and companies who support HeadlessX. BirdProxies, Swi
   <tr><td colspan="2"><hr /></td></tr>
   <tr>
     <td width="440" align="center" valign="middle">
-      <a href="https://proxylane.dev/pricing?utm_source=headlessx&amp;utm_medium=sponsorship&amp;utm_campaign=premium-pilot&amp;utm_content=readme"><img src="assets/proxylane-banner.png" alt="ProxyLane residential proxies for HeadlessX: 350 MB paid trial for $1.95, non-expiring traffic" width="420" /></a>
+      <a href="https://proxylane.dev/pricing?utm_source=headlessx&amp;utm_medium=sponsorship&amp;utm_campaign=premium-pilot&amp;utm_content=readme"><img src="assets/proxylane-banner.png" alt="ProxyLane residential proxies for HeadlessX: 35% off the first non-trial purchase, non-expiring traffic" width="420" /></a>
     </td>
     <td valign="middle">
-      <strong>Sponsored · ProxyLane</strong> supplies residential endpoints for HeadlessX scraping and browser tasks. Choose an available location, generate an HTTP connection, then verify the exit from HeadlessX. Start with <strong>350 MB for $1.95</strong>; unused traffic does not expire. Rotating or sticky sessions. Sticky does not mean a permanent IP. <strong>HEADLESSX25</strong>: 25% off one purchase, including trial ($1.46). Once per account; using it on trial consumes the discount.
+      <strong>Sponsored · ProxyLane</strong> supplies residential endpoints for HeadlessX scraping and browser tasks. Choose an available location, generate an HTTP connection, then verify the exit from HeadlessX. Prepaid packages; unused traffic does not expire. Rotating or sticky sessions. Sticky does not mean a permanent IP. <strong>HEADLESSX35</strong>: 35% off the first non-trial purchase. Once per account; no trial required.
       <br /><br />
-      <a href="https://proxylane.dev/pricing?utm_source=headlessx&amp;utm_medium=sponsorship&amp;utm_campaign=premium-pilot&amp;utm_content=readme"><strong>View paid trial</strong></a> · <a href="docs/proxylane.md"><strong>Connect &amp; verify exit IP</strong></a>
+      <a href="https://proxylane.dev/pricing?utm_source=headlessx&amp;utm_medium=sponsorship&amp;utm_campaign=premium-pilot&amp;utm_content=readme"><strong>View packages</strong></a> · <a href="docs/proxylane.md"><strong>Connect &amp; verify exit IP</strong></a>
     </td>
   </tr>
 

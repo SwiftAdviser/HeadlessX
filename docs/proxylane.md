@@ -1,8 +1,8 @@
 # How to connect ProxyLane to HeadlessX
 
-Set an authenticated HTTP endpoint in **Settings → Proxy**, save it, then verify the exit IP through HeadlessX's Website operator. The setting affects new Camoufox browser sessions globally. Start on a separate test instance: saving restarts the shared browser and can interrupt work.
+Set an authenticated HTTP endpoint in **Settings → Proxy**, save it, then verify the exit IP through HeadlessX's Website operator. The setting affects new Camoufox browser sessions globally. Use an already isolated test instance, or an agreed maintenance window: saving restarts the shared browser and can interrupt work.
 
-## Before you start
+## Before starting
 
 - A running [HeadlessX v2.1.2 instance](https://headlessx.saify.me/docs/self-hosting/overview) with its browser installed and access to Settings.
 - A [ProxyLane account](https://proxylane.dev/register) with paid traffic and generated HTTP credentials.
@@ -12,7 +12,7 @@ Use the dashboard steps without writing code. The optional API check assumes bas
 
 ## 1. Generate the connection
 
-Open [Residential proxies](https://proxylane.dev/dashboard/proxies). Choose the required country; leave narrower filters at **Any** unless needed. City and ISP choices depend on availability.
+Before paying, [confirm the required location is available](https://t.me/proxylane_support). Open [Residential proxies](https://proxylane.dev/dashboard/proxies). Choose the required country; leave narrower filters at **Any** unless needed. City and ISP choices depend on availability.
 
 Choose **Keep the same IP** for this initial check. Under **Advanced settings**, select **HTTP / HTTPS** and set a session name, such as `headlessxtest`. Click **Generate connection**. Open **Connection details** for Host, Port, Username and Password, or use **Copy connection** for the complete endpoint.
 
@@ -35,7 +35,7 @@ Use HTTP authentication for this integration. The Protocol control lists SOCKS o
 
 Open **Website** in HeadlessX. Use the JavaScript-rendered HTML scrape with URL `https://api.ipify.org?format=json`. Inspect the returned page body: it should contain JSON with an `ip` value. This is the exit seen by the destination from the browser, not the IP of your dashboard tab.
 
-Compare it with the proxy test result. In sticky mode, a repeated check is useful evidence of continuity for that sample, but the residential peer can disappear or change. If the browser result shows your known direct server IP, stop and inspect whether the proxy setting was saved and a new browser session started.
+Compare it with the proxy test result only while using the same active sticky endpoint. Rotating endpoints may return different valid IPs. In sticky mode, a repeated check is useful evidence of continuity for that sample, but the residential peer can disappear or change. If the browser result shows your known direct server IP, stop and inspect whether the proxy setting was saved and a new browser session started.
 
 For a location-sensitive workflow, inspect the returned IP with an IP-location service and then inspect the actual target's localized content. Geolocation databases can disagree; an IP echo does not prove country-specific content or residential origin.
 
@@ -76,7 +76,7 @@ Run `node verify-headlessx.mjs`. Expected shape: `Browser exit IP: <EXIT_IP>`; `
 
 Do not pass `options.proxy` to this endpoint as a substitute for Settings. The v2.1.2 request normalizer does not forward it. Adding an entry to `/api/proxies` also does not select it as the global browser endpoint.
 
-## 4. Choose session behavior for your task
+## 4. Choose session behavior for the task
 
 | Task | ProxyLane choice | Boundary |
 | --- | --- | --- |
@@ -99,12 +99,12 @@ Browser cookies and IP continuity are different. Sticky mode is neither a perman
 
 To roll back, restore the previous endpoint and routing toggle, then save. Disabling routing sends future browser traffic directly; choose that only when direct access is appropriate. On a shared instance, coordinate this change because browser restart affects other tasks.
 
-## Trial and next step
+## First purchase and next step
 
-ProxyLane offers 350 MB for $1.95; the regular 1 GB package is $6.50. Unused traffic does not expire. **HEADLESSX25 gives 25% off one purchase, including the trial, once per account**: the trial is $1.46 and 1 GB is $4.87 with the code. Enter it at checkout before payment; check the displayed total. Using the code on the trial consumes the one use. Later purchases use the regular package price.
+**HEADLESSX35 gives 35% off the first non-trial purchase, once per account.** No trial is required; a previous trial does not consume eligibility. Trial purchases are excluded. Enter the code before payment and check the displayed total. Unused traffic does not expire. Later purchases use the regular package price.
 
 Start with one representative authorized target after the exit-IP check. Record completed results and dashboard traffic used; those observations help choose the next package. Keep your existing provider if it already meets the job.
 
-[View the trial and packages](https://proxylane.dev/pricing?utm_source=headlessx&utm_medium=sponsorship&utm_campaign=premium-pilot&utm_content=docs) · [Get setup help](https://t.me/proxylane_support)
+[View packages](https://proxylane.dev/pricing?utm_source=headlessx&utm_medium=sponsorship&utm_campaign=premium-pilot&utm_content=docs) · [Get setup help](https://t.me/proxylane_support)
 
 This integration page is a sponsored placement. HeadlessX handles browser execution; ProxyLane supplies the network route. ProxyLane does not guarantee CAPTCHA removal, access to every destination or routing for every non-browser HeadlessX operator.

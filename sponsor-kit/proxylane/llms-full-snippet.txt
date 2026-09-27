@@ -1,8 +1,8 @@
 ## ProxyLane (sponsored, optional)
 
-Residential proxies for location-sensitive website requests and browser sessions. Paid trial: 350 MB for $1.95; unused traffic does not expire. Use HTTP proxy authentication with HeadlessX and verify the exit IP from the browser. Sticky sessions request continuity while the exit remains available; they are not permanent IPs. Keep an existing working provider. A proxy is not required for every workflow and does not solve every access failure.
+Residential proxies for location-sensitive website requests and browser sessions. Prepaid packages with traffic that does not expire. Use HTTP proxy authentication with HeadlessX and verify the exit IP from the browser. Sticky sessions request continuity while the exit remains available; they are not permanent IPs. Keep an existing working provider. A proxy is not required for every workflow and does not solve every access failure.
 
-HEADLESSX25: 25% off one purchase including trial ($1.46), once per account. Using it on trial consumes the discount. Enter before payment; verify the checkout total.
+HEADLESSX35: 35% off the first non-trial purchase, once per account. No trial required. Enter before payment; verify the checkout total.
 
-View paid trial: https://proxylane.dev/pricing?utm_source=headlessx&utm_medium=sponsorship&utm_campaign=premium-pilot&utm_content=llms
+View packages: https://proxylane.dev/pricing?utm_source=headlessx&utm_medium=sponsorship&utm_campaign=premium-pilot&utm_content=llms
 Setup guide: https://github.com/SwiftAdviser/HeadlessX/blob/codex/proxylane-premium-preview/docs/proxylane.md
