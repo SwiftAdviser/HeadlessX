@@ -1,0 +1,3 @@
+const { chromium } = require('playwright');
+const fs = require('node:fs'); const path = require('node:path');
+(async()=>{ const browser=await chromium.launch({headless:true}); const page=await browser.newPage({viewport:{width:1140,height:420},deviceScaleFactor:1}); await page.goto('file://'+path.join(__dirname,'banner.html')); await page.evaluate(()=>document.fonts.ready); await page.screenshot({path:path.join(__dirname,'proxylane-banner.png')}); for(const dest of ['../../assets/proxylane-banner.png','../../apps/web/public/proxylane-banner.png'])fs.copyFileSync(path.join(__dirname,'proxylane-banner.png'),path.resolve(__dirname,dest)); console.log('1140x420 PNG rendered'); await browser.close(); })();

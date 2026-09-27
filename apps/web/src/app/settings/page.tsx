@@ -32,6 +32,8 @@ import { NodeMavenProxyCallout } from "@/components/settings/NodeMavenProxyCallo
 import { MangoProxyCallout } from "@/components/settings/MangoProxyCallout";
 import { ThordataProxyCallout } from "@/components/settings/ThordataProxyCallout";
 
+import { ProxyLaneProxyCallout } from "@/components/settings/ProxyLaneProxyCallout";
+
 const fetchConfig = async () => {
     const res = await fetch('/api/config');
     return res.json();
@@ -662,6 +664,8 @@ export default function SettingsPage() {
                                         ))}
                                     </div>
                                 </FieldCard>
+
+                                <ProxyLaneProxyCallout />
 
                                 <FieldCard
                                     label="Proxy Endpoint"

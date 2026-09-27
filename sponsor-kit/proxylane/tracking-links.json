@@ -1,0 +1,10 @@
+{
+  "status": "Acquisition UTM links ready; affiliate r code pending partner account. UTM alone does not accrue commission.",
+  "links": {
+    "README": "https://proxylane.dev/pricing?utm_source=headlessx&utm_medium=sponsorship&utm_campaign=premium-pilot&utm_content=readme",
+    "Docs": "https://proxylane.dev/pricing?utm_source=headlessx&utm_medium=sponsorship&utm_campaign=premium-pilot&utm_content=docs",
+    "Settings → Proxy": "https://proxylane.dev/pricing?utm_source=headlessx&utm_medium=sponsorship&utm_campaign=premium-pilot&utm_content=app-proxy",
+    "AGENTS.md": "https://proxylane.dev/pricing?utm_source=headlessx&utm_medium=sponsorship&utm_campaign=premium-pilot&utm_content=agents",
+    "llms-full.txt": "https://proxylane.dev/pricing?utm_source=headlessx&utm_medium=sponsorship&utm_campaign=premium-pilot&utm_content=llms"
+  }
+}
