@@ -54,26 +54,16 @@ export function ProxyLaneProxyCallout() {
             Sponsored · ProxyLane
           </div>
           <h3 className="mt-1 text-base font-semibold text-slate-900">
-            28M+ Premium Residential HTTP Proxies
+            Residential HTTP proxies for HeadlessX
           </h3>
-          <p className="mt-2 text-sm leading-6 text-slate-600">
-            Optimized for HeadlessX web scraping and automation workflows
-          </p>
           <ul className="mt-2 list-disc space-y-1 pl-5 text-sm text-slate-600">
-            <li>Marketplaces: recurring price and stock monitoring</li>
-            <li>Gated Websites: social media, property and vehicle listings</li>
-            <li>AI Workflows: market research, leads enrichment, etc</li>
-          </ul>
-          <p className="mt-2 text-sm text-slate-600">ProxyLane already has what you need to succeed:</p>
-          <ul className="mt-2 list-disc space-y-1 pl-5 text-sm text-slate-600">
-            <li>IP rotations for large scraping jobs</li>
-            <li>Sticky IP sessions for authorized browsing jobs</li>
-            <li>195 countries, ZIP targeting</li>
-            <li>Ultra-low IP fraud score, ~0.35s response time</li>
-            <li>No KYC required, Traffic never expires</li>
+            <li>Price/stock monitoring, property/vehicle listings, company research</li>
+            <li>Rotate between jobs; sticky sessions for authorized browsing</li>
+            <li>28M+ IPs, 195 countries, ZIP targeting</li>
+            <li>$6.50/GB; traffic never expires; no KYC</li>
           </ul>
           <p className="mt-2 text-sm text-slate-600">
-            Get 350MB trial for $1.95, use <strong>HEADLESS30</strong> 30% off on your first purchase
+            350MB trial: <strong>$1.95</strong>. <strong>HEADLESS30</strong>: 30% off your first purchase.
           </p>
           <div className="mt-3 flex flex-wrap items-center gap-x-5 gap-y-3 text-sm font-semibold">
             <a

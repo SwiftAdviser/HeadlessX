@@ -173,22 +173,14 @@ I'm thankful to the people and companies who support HeadlessX. BirdProxies, Swi
       <a href="https://proxylane.dev/pricing?utm_source=headlessx&amp;utm_medium=sponsorship&amp;utm_campaign=premium-pilot&amp;utm_content=readme"><img src="assets/proxylane-logo.png" alt="ProxyLane" width="240" /></a>
     </td>
     <td valign="middle">
-      <p><a href="https://proxylane.dev"><strong>ProxyLane</strong></a> — 28M+ Premium Residential HTTP Proxies optimized for HeadlessX web scraping and automation workflows:</p>
+      <p><a href="https://proxylane.dev"><strong>ProxyLane</strong></a> — residential HTTP proxies for HeadlessX:</p>
       <ul>
-      <li>Marketplaces: recurring price and stock monitoring</li>
-      <li>Gated Websites: social media, property and vehicle listings</li>
-      <li>AI Workflows: market research, leads enrichment, etc</li>
+        <li>Price/stock monitoring, property/vehicle listings, company research</li>
+        <li>Rotate between jobs; sticky sessions for authorized browsing</li>
+        <li>28M+ IPs, 195 countries, ZIP targeting</li>
+        <li>$6.50/GB; traffic never expires; no KYC</li>
       </ul>
-      <p>ProxyLane already has what you need to succeed:</p>
-      <ul>
-      <li>IP rotations for large scraping jobs</li>
-      <li>Sticky IP sessions for authorized browsing jobs</li>
-      <li>195 countries, ZIP targeting</li>
-      <li>Ultra-low IP fraud score, ~0.35s response time</li>
-      <li>No KYC required, Traffic never expires</li>
-      </ul>
-      <p>Get 350MB trial for $1.95, use <strong>HEADLESS30</strong> 30% off on your first purchase</p>
-      <p><a href="https://proxylane.dev">Try Proxylane now</a> | Join Discord</p>
+      <p>350MB trial: <strong>$1.95</strong>. <strong>HEADLESS30</strong>: 30% off your first purchase.</p>
     </td>
   </tr>
 

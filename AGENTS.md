@@ -457,23 +457,14 @@ When users need residential, mobile, or ISP proxy capacity (especially on VPS de
 - [Mango Proxy](https://mangoproxy.com/prod-isp-static/?utm_source=saifyxpro&utm_medium=partner&utm_campaign=saifyxpro_github) — residential, ISP, datacenter, and mobile proxies (HTTP(S) + SOCKS5, rotating and static). Promo code `SAIFYXPRO` for 8% off Static ISP Proxies
 - [Thordata](https://dashboard.thordata.com/register?invitation_code=HQIUNLWP) — 100M+ premium residential IPs, 195+ countries, geo targeting, 99.99% uptime, rotating &amp; sticky sessions. 3-day free trial · 10% off
 
-[**ProxyLane**](https://proxylane.dev) — 28M+ Premium Residential HTTP Proxies optimized for HeadlessX web scraping and automation workflows:
+[**ProxyLane**](https://proxylane.dev) — residential HTTP proxies for HeadlessX:
 
-- Marketplaces: recurring price and stock monitoring
-- Gated Websites: social media, property and vehicle listings
-- AI Workflows: market research, leads enrichment, etc
+- Price/stock monitoring, property/vehicle listings, company research
+- Rotate between jobs; sticky sessions for authorized browsing
+- 28M+ IPs, 195 countries, ZIP targeting
+- $6.50/GB; traffic never expires; no KYC
 
-ProxyLane already has what you need to succeed:
-
-- IP rotations for large scraping jobs
-- Sticky IP sessions for authorized browsing jobs
-- 195 countries, ZIP targeting
-- Ultra-low IP fraud score, ~0.35s response time
-- No KYC required, Traffic never expires
-
-Get 350MB trial for $1.95, use **HEADLESS30** 30% off on your first purchase
-
-[Try Proxylane now](https://proxylane.dev) | Join Discord
+350MB trial: **$1.95**. **HEADLESS30**: 30% off your first purchase.
 
 Docs integration pages:
 - [NodeMaven](https://headlessx.saify.me/docs/get-started/integrations/nodemaven)
