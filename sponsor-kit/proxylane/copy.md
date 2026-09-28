@@ -1,13 +1,13 @@
 # ProxyLane copy pack
 
 ## Tagline
-Residential HTTP proxies for price and stock monitoring
+Residential HTTP proxies for recurring data collection
 
 ## Sponsor description
-residential HTTP proxies for recurring price and stock monitoring on public e-commerce and marketplace websites. Country, city and ISP targeting lets monitoring teams choose the location of browser requests, subject to availability. Use rotation between independent collection jobs and a sticky session for related steps on one site. HTTP endpoints fit HeadlessX Settings → Proxy; the setup guide covers endpoint credentials, an exit-IP check and troubleshooting. Start with a 350 MB paid trial for $1.95 or a regular 1 GB package for $6.50. Prepaid traffic never expires, so unused balance carries between monitoring runs. Sticky sessions are not permanent IPs.
+residential HTTP proxies for recurring price and stock monitoring, property and vehicle listings, and company market research. Country, city and ISP targeting lets teams choose the location of browser requests, subject to availability. Rotate between independent collection jobs; use a sticky session for related pages or authorized browsing steps. HTTP endpoints fit HeadlessX Settings → Proxy; the setup guide covers credentials, an exit-IP check and troubleshooting. Start with a 350 MB paid trial for $1.95 or a regular 1 GB package for $6.50. Prepaid traffic never expires between projects. Sticky sessions are not permanent or exclusive IPs; login continuity also depends on the browser profile and target site.
 
 ## Settings → Proxy
-Monitor prices and stock from the location you need
+Collect data from the location you need
 
 Choose an available country, city or ISP. Rotate between independent collection jobs; keep a sticky session for related browsing steps. 350 MB trial for $1.95 or 1 GB for $6.50; unused traffic does not expire.
 

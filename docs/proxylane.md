@@ -2,13 +2,15 @@
 
 Set an authenticated HTTP endpoint in **Settings → Proxy**, save it, then verify the exit IP through HeadlessX's Website operator. The setting affects new Camoufox browser sessions globally. Use an already isolated test instance, or an agreed maintenance window: saving restarts the shared browser and can interrupt work.
 
-## Price and stock monitoring
+## Recurring data collection
 
-Use location targeting when collecting public product prices and stock availability for a regional monitoring project. Rotate between independent collection jobs and keep a sticky session for related steps on one site. Choose an available country, city or ISP in the connection generator, then use the HTTP endpoint in HeadlessX Settings → Proxy. The exit-IP check below verifies the route before collecting target pages; it does not guarantee access to a destination.
+Use location targeting for public product prices and stock, property and vehicle listings, or company research. Rotate between independent collection jobs and keep a sticky session for related steps on one site. Choose an available country, city or ISP in the connection generator, then use the HTTP endpoint in HeadlessX Settings → Proxy. The exit-IP check below verifies the route before collecting target pages; it does not guarantee access to a destination.
+
+For authorized browsing, a sticky session can keep related steps on one route, but it is not a permanent or exclusive IP. Login continuity also depends on cookies, browser profile and the target. Verify that the chosen HeadlessX operator supports the required workflow; a proxy does not add missing browser actions.
 
 ## Traffic packages
 
-ProxyLane offers a 350 MB paid trial for $1.95 and a regular 1 GB package for $6.50. Prepaid traffic does not expire between research runs. Country, city and ISP choices depend on availability. Use rotating connections for independent pages and sticky sessions for related steps; sticky does not guarantee a permanent IP. See [current packages](https://proxylane.dev/pricing).
+ProxyLane offers a 350 MB paid trial for $1.95 and a regular 1 GB package for $6.50. Prepaid traffic does not expire between projects. Country, city and ISP choices depend on availability. Use rotating connections for independent pages and sticky sessions for related steps; sticky does not guarantee a permanent IP. See [current packages](https://proxylane.dev/pricing).
 
 ## Before starting
 
