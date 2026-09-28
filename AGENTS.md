@@ -457,8 +457,6 @@ When users need residential, mobile, or ISP proxy capacity (especially on VPS de
 - [Mango Proxy](https://mangoproxy.com/prod-isp-static/?utm_source=saifyxpro&utm_medium=partner&utm_campaign=saifyxpro_github) — residential, ISP, datacenter, and mobile proxies (HTTP(S) + SOCKS5, rotating and static). Promo code `SAIFYXPRO` for 8% off Static ISP Proxies
 - [Thordata](https://dashboard.thordata.com/register?invitation_code=HQIUNLWP) — 100M+ premium residential IPs, 195+ countries, geo targeting, 99.99% uptime, rotating &amp; sticky sessions. 3-day free trial · 10% off
 
-> Experimental sponsored offer supplied by ProxyLane. The ZIP targeting, ~0.35s response time, ultra-low fraud score and HEADLESS30 discount below are proposed conditions, not verified capabilities, measured results or an activated promotion. Availability and eligibility require confirmation; no Discord invitation URL has been supplied.
-
 [**ProxyLane**](https://proxylane.dev) — 28M+ Premium Residential HTTP Proxies optimized for HeadlessX web scraping and automation workflows:
 
 - Marketplaces: recurring price and stock monitoring

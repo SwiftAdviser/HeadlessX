@@ -1,7 +1,5 @@
 ## ProxyLane (sponsored)
 
-> Experimental sponsored offer supplied by ProxyLane. The ZIP targeting, ~0.35s response time, ultra-low fraud score and HEADLESS30 discount below are proposed conditions, not verified capabilities, measured results or an activated promotion. Availability and eligibility require confirmation; no Discord invitation URL has been supplied.
-
 [**ProxyLane**](https://proxylane.dev) — 28M+ Premium Residential HTTP Proxies optimized for HeadlessX web scraping and automation workflows:
 
 - Marketplaces: recurring price and stock monitoring

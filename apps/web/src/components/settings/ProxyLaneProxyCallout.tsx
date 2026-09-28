@@ -56,10 +56,6 @@ export function ProxyLaneProxyCallout() {
           <h3 className="mt-1 text-base font-semibold text-slate-900">
             28M+ Premium Residential HTTP Proxies
           </h3>
-          <p className="mt-1 text-xs leading-5 text-slate-600">
-            Experimental sponsored offer. ZIP targeting, ~0.35s response time, ultra-low fraud
-            score and HEADLESS30 are proposed conditions, not verified results or an activated promotion.
-          </p>
           <p className="mt-2 text-sm leading-6 text-slate-600">
             Optimized for HeadlessX web scraping and automation workflows
           </p>

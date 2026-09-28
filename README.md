@@ -173,7 +173,6 @@ I'm thankful to the people and companies who support HeadlessX. BirdProxies, Swi
       <a href="https://proxylane.dev/pricing?utm_source=headlessx&amp;utm_medium=sponsorship&amp;utm_campaign=premium-pilot&amp;utm_content=readme"><img src="assets/proxylane-logo.png" alt="ProxyLane" width="240" /></a>
     </td>
     <td valign="middle">
-      <p><em>Experimental sponsored offer supplied by ProxyLane. The ZIP targeting, ~0.35s response time, ultra-low fraud score and HEADLESS30 discount below are proposed conditions, not verified capabilities, measured results or an activated promotion. Availability and eligibility require confirmation; no Discord invitation URL has been supplied.</em></p>
       <p><a href="https://proxylane.dev"><strong>ProxyLane</strong></a> — 28M+ Premium Residential HTTP Proxies optimized for HeadlessX web scraping and automation workflows:</p>
       <ul>
       <li>Marketplaces: recurring price and stock monitoring</li>
