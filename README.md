@@ -173,9 +173,23 @@ I'm thankful to the people and companies who support HeadlessX. BirdProxies, Swi
       <a href="https://proxylane.dev/pricing?utm_source=headlessx&amp;utm_medium=sponsorship&amp;utm_campaign=premium-pilot&amp;utm_content=readme"><img src="assets/proxylane-logo.png" alt="ProxyLane" width="240" /></a>
     </td>
     <td valign="middle">
-      <strong>Sponsored · ProxyLane</strong> — residential HTTP proxies for recurring price and stock monitoring, property and vehicle listings, and company market research. Country, city and ISP targeting lets teams choose the location of browser requests, subject to availability. Rotate between independent collection jobs. For related pages or authorized browsing steps, choose Keep the same IP: a sticky exit can remain the same for up to 24 hours while its connection stays available. Reuse the generated connection within the workflow; an unavailable residential peer can cause an earlier IP change. HTTP endpoints fit HeadlessX Settings → Proxy; the setup guide covers credentials, an exit-IP check and troubleshooting. Start with a 350 MB paid trial for $1.95 or a regular 1 GB package for $6.50. Prepaid traffic never expires between projects. Sticky sessions are not permanent or exclusive IPs; login continuity also depends on the browser profile and target site.
-      <br /><br />
-      <a href="https://proxylane.dev/pricing?utm_source=headlessx&amp;utm_medium=sponsorship&amp;utm_campaign=premium-pilot&amp;utm_content=readme"><strong>View packages</strong></a> · <a href="docs/proxylane.md"><strong>Connect &amp; verify exit IP</strong></a>
+      <p><em>Experimental sponsored offer supplied by ProxyLane. The ZIP targeting, ~0.35s response time, ultra-low fraud score and HEADLESS30 discount below are proposed conditions, not verified capabilities, measured results or an activated promotion. Availability and eligibility require confirmation; no Discord invitation URL has been supplied.</em></p>
+      <p><a href="https://proxylane.dev"><strong>ProxyLane</strong></a> — 28M+ Premium Residential HTTP Proxies optimized for HeadlessX web scraping and automation workflows:</p>
+      <ul>
+      <li>Marketplaces: recurring price and stock monitoring</li>
+      <li>Gated Websites: social media, property and vehicle listings</li>
+      <li>AI Workflows: market research, leads enrichment, etc</li>
+      </ul>
+      <p>ProxyLane already has what you need to succeed:</p>
+      <ul>
+      <li>IP rotations for large scraping jobs</li>
+      <li>Sticky IP sessions for authorized browsing jobs</li>
+      <li>195 countries, ZIP targeting</li>
+      <li>Ultra-low IP fraud score, ~0.35s response time</li>
+      <li>No KYC required, Traffic never expires</li>
+      </ul>
+      <p>Get 350MB trial for $1.95, use <strong>HEADLESS30</strong> 30% off on your first purchase</p>
+      <p><a href="https://proxylane.dev">Try Proxylane now</a> | Join Discord</p>
     </td>
   </tr>
 

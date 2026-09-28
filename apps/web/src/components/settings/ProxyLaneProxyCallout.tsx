@@ -54,15 +54,30 @@ export function ProxyLaneProxyCallout() {
             Sponsored · ProxyLane
           </div>
           <h3 className="mt-1 text-base font-semibold text-slate-900">
-            Collect data from the location you need
+            28M+ Premium Residential HTTP Proxies
           </h3>
-          <p className="mt-1 text-sm leading-6 text-slate-600">
-            Choose an available country, city or ISP. Rotate between independent collection jobs;
-            keep a sticky exit for related steps, up to 24 hours while available. The IP can change
-            sooner if its connection disappears.
+          <p className="mt-1 text-xs leading-5 text-slate-600">
+            Experimental sponsored offer. ZIP targeting, ~0.35s response time, ultra-low fraud
+            score and HEADLESS30 are proposed conditions, not verified results or an activated promotion.
           </p>
-          <p className="mt-2 text-xs leading-5 text-slate-600">
-            350 MB trial for $1.95 or 1 GB for $6.50; unused traffic does not expire.
+          <p className="mt-2 text-sm leading-6 text-slate-600">
+            Optimized for HeadlessX web scraping and automation workflows
+          </p>
+          <ul className="mt-2 list-disc space-y-1 pl-5 text-sm text-slate-600">
+            <li>Marketplaces: recurring price and stock monitoring</li>
+            <li>Gated Websites: social media, property and vehicle listings</li>
+            <li>AI Workflows: market research, leads enrichment, etc</li>
+          </ul>
+          <p className="mt-2 text-sm text-slate-600">ProxyLane already has what you need to succeed:</p>
+          <ul className="mt-2 list-disc space-y-1 pl-5 text-sm text-slate-600">
+            <li>IP rotations for large scraping jobs</li>
+            <li>Sticky IP sessions for authorized browsing jobs</li>
+            <li>195 countries, ZIP targeting</li>
+            <li>Ultra-low IP fraud score, ~0.35s response time</li>
+            <li>No KYC required, Traffic never expires</li>
+          </ul>
+          <p className="mt-2 text-sm text-slate-600">
+            Get 350MB trial for $1.95, use <strong>HEADLESS30</strong> 30% off on your first purchase
           </p>
           <div className="mt-3 flex flex-wrap items-center gap-x-5 gap-y-3 text-sm font-semibold">
             <a
@@ -71,7 +86,7 @@ export function ProxyLaneProxyCallout() {
               rel="sponsored noopener noreferrer"
               className="inline-flex items-center gap-1 text-slate-900 underline underline-offset-4"
             >
-              View packages <HugeiconsIcon icon={LinkSquare01Icon} size={14} />
+              Try Proxylane now <HugeiconsIcon icon={LinkSquare01Icon} size={14} />
             </a>
             <a
               href={GUIDE_URL}

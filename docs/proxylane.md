@@ -12,6 +12,28 @@ For authorized browsing, choose **Keep the same IP** and reuse the generated con
 
 ProxyLane offers a 350 MB paid trial for $1.95 and a regular 1 GB package for $6.50. Prepaid traffic does not expire between projects. Country, city and ISP choices depend on availability. Use rotating connections for independent pages and sticky sessions for related steps; sticky does not guarantee a permanent IP. See [current packages](https://proxylane.dev/pricing).
 
+## Experimental sponsor offer
+
+> Experimental sponsored offer supplied by ProxyLane. The ZIP targeting, ~0.35s response time, ultra-low fraud score and HEADLESS30 discount below are proposed conditions, not verified capabilities, measured results or an activated promotion. Availability and eligibility require confirmation; no Discord invitation URL has been supplied.
+
+[**ProxyLane**](https://proxylane.dev) — 28M+ Premium Residential HTTP Proxies optimized for HeadlessX web scraping and automation workflows:
+
+- Marketplaces: recurring price and stock monitoring
+- Gated Websites: social media, property and vehicle listings
+- AI Workflows: market research, leads enrichment, etc
+
+ProxyLane already has what you need to succeed:
+
+- IP rotations for large scraping jobs
+- Sticky IP sessions for authorized browsing jobs
+- 195 countries, ZIP targeting
+- Ultra-low IP fraud score, ~0.35s response time
+- No KYC required, Traffic never expires
+
+Get 350MB trial for $1.95, use **HEADLESS30** 30% off on your first purchase
+
+[Try Proxylane now](https://proxylane.dev) | Join Discord
+
 ## Before starting
 
 - A running [HeadlessX v2.1.2 instance](https://headlessx.saify.me/docs/self-hosting/overview) with its browser installed and access to Settings.
