@@ -2,9 +2,9 @@
 
 Set an authenticated HTTP endpoint in **Settings → Proxy**, save it, then verify the exit IP through HeadlessX's Website operator. The setting affects new Camoufox browser sessions globally. Use an already isolated test instance, or an agreed maintenance window: saving restarts the shared browser and can interrupt work.
 
-## Company and competitor research
+## Price and stock monitoring
 
-Use location targeting when collecting public company and competitor pages for a regional research project. Rotate between independent collection jobs and keep a sticky session for related steps on one site. Choose an available country, city or ISP in the connection generator, then use the HTTP endpoint in HeadlessX Settings → Proxy. The exit-IP check below verifies the route before collecting target pages; it does not guarantee access to a destination.
+Use location targeting when collecting public product prices and stock availability for a regional monitoring project. Rotate between independent collection jobs and keep a sticky session for related steps on one site. Choose an available country, city or ISP in the connection generator, then use the HTTP endpoint in HeadlessX Settings → Proxy. The exit-IP check below verifies the route before collecting target pages; it does not guarantee access to a destination.
 
 ## Traffic packages
 

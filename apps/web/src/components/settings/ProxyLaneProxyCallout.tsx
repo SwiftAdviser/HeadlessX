@@ -8,7 +8,7 @@ const DISMISS_KEY = 'headlessx-proxylane-callout-dismissed';
 const OFFER_URL =
   'https://proxylane.dev/pricing?utm_source=headlessx&utm_medium=sponsorship&utm_campaign=premium-pilot&utm_content=app-proxy';
 const GUIDE_URL =
-  'https://github.com/SwiftAdviser/HeadlessX/blob/codex/proxylane-research-offer/docs/proxylane.md';
+  'https://github.com/SwiftAdviser/HeadlessX/blob/codex/proxylane-price-offer/docs/proxylane.md';
 
 export function ProxyLaneProxyCallout() {
   const [dismissed, setDismissed] = useState(true);
@@ -54,7 +54,7 @@ export function ProxyLaneProxyCallout() {
             Sponsored · ProxyLane
           </div>
           <h3 className="mt-1 text-base font-semibold text-slate-900">
-            Research company websites from the location you need
+            Monitor prices and stock from the location you need
           </h3>
           <p className="mt-1 text-sm leading-6 text-slate-600">
             Choose an available country, city or ISP. Rotate between independent collection jobs;
