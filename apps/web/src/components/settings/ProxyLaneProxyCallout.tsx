@@ -54,14 +54,14 @@ export function ProxyLaneProxyCallout() {
             Sponsored · ProxyLane
           </div>
           <h3 className="mt-1 text-base font-semibold text-slate-900">
-            Start with the traffic your research needs
+            Research company websites from the location you need
           </h3>
           <p className="mt-1 text-sm leading-6 text-slate-600">
-            350 MB trial for $1.95 or 1 GB for $6.50. Keep unused traffic between runs. Country,
-            city and ISP targeting; rotating or sticky sessions.
+            Choose an available country, city or ISP. Rotate between independent collection jobs;
+            keep a sticky session for related browsing steps.
           </p>
           <p className="mt-2 text-xs leading-5 text-slate-600">
-            Prepaid traffic does not expire. Location availability and session limits apply.
+            350 MB trial for $1.95 or 1 GB for $6.50; unused traffic does not expire.
           </p>
           <div className="mt-3 flex flex-wrap items-center gap-x-5 gap-y-3 text-sm font-semibold">
             <a
