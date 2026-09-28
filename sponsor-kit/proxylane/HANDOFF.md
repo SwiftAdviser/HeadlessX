@@ -2,6 +2,10 @@
 
 Prepared preview, not a live placement. Target: upstream HeadlessX v2.1.2, commit 5c0ff645b988d06582ca5194db6bdaf3e38eecce.
 
+## Current copy version
+
+The research-offer branch currently uses explicit regular package prices and capabilities. It does not advertise the unverified community coupon. Use the existing brand logo for the active README and preview; promotional banner files below are retained historical assets. The coupon terms below are a separate proposal, not an active offer in this version.
+
 ## Included
 
 - `proxylane-banner.png`: 1140 × 420 PNG, shown at 420 px in README.

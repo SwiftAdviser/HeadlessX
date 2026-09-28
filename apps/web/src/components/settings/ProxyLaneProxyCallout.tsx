@@ -8,7 +8,7 @@ const DISMISS_KEY = 'headlessx-proxylane-callout-dismissed';
 const OFFER_URL =
   'https://proxylane.dev/pricing?utm_source=headlessx&utm_medium=sponsorship&utm_campaign=premium-pilot&utm_content=app-proxy';
 const GUIDE_URL =
-  'https://github.com/SwiftAdviser/HeadlessX/blob/codex/proxylane-premium-preview/docs/proxylane.md';
+  'https://github.com/SwiftAdviser/HeadlessX/blob/codex/proxylane-research-offer/docs/proxylane.md';
 
 export function ProxyLaneProxyCallout() {
   const [dismissed, setDismissed] = useState(true);
@@ -53,14 +53,15 @@ export function ProxyLaneProxyCallout() {
           <div className="pr-6 text-[11px] font-semibold uppercase tracking-wider text-slate-500">
             Sponsored · ProxyLane
           </div>
-          <h3 className="mt-1 text-base font-semibold text-slate-900">Need a residential proxy?</h3>
+          <h3 className="mt-1 text-base font-semibold text-slate-900">
+            Start with the traffic your research needs
+          </h3>
           <p className="mt-1 text-sm leading-6 text-slate-600">
-            Choose a location for new browser sessions. Confirm availability before buying; unused
-            traffic does not expire.
+            350 MB trial for $1.95 or 1 GB for $6.50. Keep unused traffic between runs. Country,
+            city and ISP targeting; rotating or sticky sessions.
           </p>
           <p className="mt-2 text-xs leading-5 text-slate-600">
-            <strong>HEADLESSX35</strong>: 35% off the first non-trial purchase. Once per account; no
-            trial required.
+            Prepaid traffic does not expire. Location availability and session limits apply.
           </p>
           <div className="mt-3 flex flex-wrap items-center gap-x-5 gap-y-3 text-sm font-semibold">
             <a

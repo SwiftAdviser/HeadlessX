@@ -2,6 +2,7 @@ import fs from 'node:fs/promises';
 import path from 'node:path';
 import ReactMarkdown from 'react-markdown';
 import remarkGfm from 'remark-gfm';
+import { ProxyLaneProxyCallout } from '@/components/settings/ProxyLaneProxyCallout';
 export const metadata = {
   title: 'ProxyLane integration preview | HeadlessX',
   robots: { index: false, follow: false },
@@ -17,12 +18,15 @@ export default async function SponsorPreview() {
         Fork preview · Proposed documentation content · Not the live HeadlessX docs site
       </div>
       <img
-        src="/proxylane-banner.png"
-        alt="ProxyLane residential proxies for HeadlessX, paid trial with HEADLESSX25"
-        width={1140}
-        height={420}
-        className="mb-8 h-auto w-full rounded-xl"
+        src="/proxylane-logo.png"
+        alt="ProxyLane"
+        width={320}
+        height={120}
+        className="mb-8 h-auto max-w-full"
       />
+      <div className="mb-8">
+        <ProxyLaneProxyCallout />
+      </div>
       <article className="prose prose-slate max-w-none prose-pre:overflow-x-auto prose-pre:max-w-full prose-table:text-sm break-words min-w-0">
         <ReactMarkdown
           remarkPlugins={[remarkGfm]}

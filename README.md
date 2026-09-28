@@ -170,10 +170,10 @@ I'm thankful to the people and companies who support HeadlessX. BirdProxies, Swi
   <tr><td colspan="2"><hr /></td></tr>
   <tr>
     <td width="440" align="center" valign="middle">
-      <a href="https://proxylane.dev/pricing?utm_source=headlessx&amp;utm_medium=sponsorship&amp;utm_campaign=premium-pilot&amp;utm_content=readme"><img src="assets/proxylane-banner.png" alt="ProxyLane residential proxies for HeadlessX: 35% off the first non-trial purchase, non-expiring traffic" width="420" /></a>
+      <a href="https://proxylane.dev/pricing?utm_source=headlessx&amp;utm_medium=sponsorship&amp;utm_campaign=premium-pilot&amp;utm_content=readme"><img src="assets/proxylane-logo.png" alt="ProxyLane" width="240" /></a>
     </td>
     <td valign="middle">
-      <strong>Sponsored · ProxyLane</strong> supplies residential endpoints for HeadlessX scraping and browser tasks. Choose an available location, generate an HTTP connection, then verify the exit from HeadlessX. Prepaid packages; unused traffic does not expire. Rotating or sticky sessions. Sticky does not mean a permanent IP. <strong>HEADLESSX35</strong>: 35% off the first non-trial purchase. Once per account; no trial required.
+      <strong>Sponsored · ProxyLane</strong> — residential proxies for web scraping and browser automation. Start with a 350 MB paid trial for $1.95 or a regular 1 GB package for $6.50. Prepaid traffic never expires between research runs. Country, city and ISP targeting; rotating and sticky sessions. HTTP endpoints work with the HeadlessX browser proxy settings. Generate a connection for the available location and follow the setup guide. Sticky sessions are not permanent IPs.
       <br /><br />
       <a href="https://proxylane.dev/pricing?utm_source=headlessx&amp;utm_medium=sponsorship&amp;utm_campaign=premium-pilot&amp;utm_content=readme"><strong>View packages</strong></a> · <a href="docs/proxylane.md"><strong>Connect &amp; verify exit IP</strong></a>
     </td>

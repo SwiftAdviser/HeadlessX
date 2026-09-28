@@ -2,6 +2,10 @@
 
 Set an authenticated HTTP endpoint in **Settings → Proxy**, save it, then verify the exit IP through HeadlessX's Website operator. The setting affects new Camoufox browser sessions globally. Use an already isolated test instance, or an agreed maintenance window: saving restarts the shared browser and can interrupt work.
 
+## Traffic packages
+
+ProxyLane offers a 350 MB paid trial for $1.95 and a regular 1 GB package for $6.50. Prepaid traffic does not expire between research runs. Country, city and ISP choices depend on availability. Use rotating connections for independent pages and sticky sessions for related steps; sticky does not guarantee a permanent IP. See [current packages](https://proxylane.dev/pricing).
+
 ## Before starting
 
 - A running [HeadlessX v2.1.2 instance](https://headlessx.saify.me/docs/self-hosting/overview) with its browser installed and access to Settings.
@@ -101,7 +105,7 @@ To roll back, restore the previous endpoint and routing toggle, then save. Disab
 
 ## First purchase and next step
 
-**HEADLESSX35 gives 35% off the first non-trial purchase, once per account.** No trial is required; a previous trial does not consume eligibility. Trial purchases are excluded. Enter the code before payment and check the displayed total. Unused traffic does not expire. Later purchases use the regular package price.
+Choose the 350 MB paid trial for $1.95 or a regular package starting at 1 GB for $6.50. A trial is optional. Check the current package and total before payment; prepaid traffic does not expire.
 
 Start with one representative authorized target after the exit-IP check. Record completed results and dashboard traffic used; those observations help choose the next package. Keep your existing provider if it already meets the job.
 
