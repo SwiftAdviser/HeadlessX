@@ -6,7 +6,7 @@ Set an authenticated HTTP endpoint in **Settings → Proxy**, save it, then veri
 
 Use location targeting for public product prices and stock, property and vehicle listings, or company research. Rotate between independent collection jobs and keep a sticky session for related steps on one site. Choose an available country, city or ISP in the connection generator, then use the HTTP endpoint in HeadlessX Settings → Proxy. The exit-IP check below verifies the route before collecting target pages; it does not guarantee access to a destination.
 
-For authorized browsing, a sticky session can keep related steps on one route, but it is not a permanent or exclusive IP. Login continuity also depends on cookies, browser profile and the target. Verify that the chosen HeadlessX operator supports the required workflow; a proxy does not add missing browser actions.
+For authorized browsing, choose **Keep the same IP** and reuse the generated connection for related steps. The exit can remain the same for up to 24 hours while its connection stays available; a residential peer going offline can cause an earlier IP change. This is not a permanent or exclusive IP. See [documented sticky behavior](https://docs.proxylane.dev/rotating-and-sticky). Login continuity also depends on cookies, browser profile and the target. Verify that the chosen HeadlessX operator supports the required workflow; a proxy does not add missing browser actions.
 
 ## Traffic packages
 

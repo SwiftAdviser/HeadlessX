@@ -58,7 +58,8 @@ export function ProxyLaneProxyCallout() {
           </h3>
           <p className="mt-1 text-sm leading-6 text-slate-600">
             Choose an available country, city or ISP. Rotate between independent collection jobs;
-            keep a sticky session for related browsing steps.
+            keep a sticky exit for related steps, up to 24 hours while available. The IP can change
+            sooner if its connection disappears.
           </p>
           <p className="mt-2 text-xs leading-5 text-slate-600">
             350 MB trial for $1.95 or 1 GB for $6.50; unused traffic does not expire.
