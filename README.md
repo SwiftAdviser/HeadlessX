@@ -174,14 +174,14 @@ I'm thankful to the people and companies who support HeadlessX. BirdProxies, Swi
   <tr>
     <td width="440" align="center" valign="middle">
       <a href="https://proxylane.dev/pricing?utm_source=headlessx&amp;utm_medium=sponsorship&amp;utm_campaign=premium-pilot&amp;utm_content=readme">
-        <img src="assets/proxylane-headlessx-sponsor.png" alt="ProxyLane — Sticky sessions up to 7 days while the exit device stays online and ZIP targeting subject to availability for long-running browser and AI-agent workflows" width="420" />
+        <img src="assets/proxylane-headlessx-sponsor.png" alt="ProxyLane — Sticky sessions up to 72 hours while the exit device stays online and ZIP targeting subject to availability for long-running browser and AI-agent workflows" width="420" />
       </a>
     </td>
     <td valign="middle">
       <a name="proxylane"></a>
       <p><strong>Sponsored · ProxyLane</strong><br />Residential proxies for long-running browser and AI-agent sessions</p>
       <ul>
-        <li>Sticky sessions up to 7 days while the exit device stays online</li>
+        <li>Sticky sessions up to 72 hours while the exit device stays online</li>
         <li>ZIP targeting, subject to availability</li>
         <li>No KYC</li>
       </ul>
