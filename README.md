@@ -174,20 +174,20 @@ I'm thankful to the people and companies who support HeadlessX. BirdProxies, Swi
   <tr>
     <td width="440" align="center" valign="middle">
       <a href="https://proxylane.dev/pricing?utm_source=headlessx&amp;utm_medium=sponsorship&amp;utm_campaign=premium-pilot&amp;utm_content=readme">
-        <img src="assets/proxylane-headlessx-sponsor.png" alt="ProxyLane — Long-running sessions with the same residential IP while the exit device stays online" width="420" />
+        <img src="assets/proxylane-headlessx-sponsor.png" alt="ProxyLane — Sticky sessions up to 7 days while the exit device stays online and ZIP targeting subject to availability for long-running browser and AI-agent workflows" width="420" />
       </a>
     </td>
     <td valign="middle">
       <a name="proxylane"></a>
-      <strong>Sponsored · ProxyLane — Residential proxies for long-running browser sessions and AI-agent workflows</strong>
-      <br /><br />
-      Keep the same residential IP across related browser steps, with no fixed session time limit while the exit device stays online. Choose an available country, city or ISP; rotate when you start an independent job.
-      <br /><br />
-      Connect through HeadlessX <strong>Settings → Proxy</strong> using <strong>HTTP</strong>, then verify your browser’s exit IP before testing your target. Start with <strong>350 MB for $1.95</strong> or <strong>1 GB for $6.50</strong>. Unused prepaid traffic never expires.
-      <br /><br />
-      Session continuity also depends on your browser profile and target site; a residential exit can go offline.
-      <br /><br />
-      <a href="https://proxylane.dev/pricing?utm_source=headlessx&amp;utm_medium=sponsorship&amp;utm_campaign=premium-pilot&amp;utm_content=readme"><strong>View packages</strong></a> · <a href="docs/proxylane.md"><strong>Connect &amp; verify exit IP</strong></a>
+      <p><strong>Sponsored · ProxyLane</strong><br />Residential proxies for long-running browser and AI-agent sessions</p>
+      <ul>
+        <li>Sticky sessions up to 7 days while the exit device stays online</li>
+        <li>ZIP targeting, subject to availability</li>
+        <li>No KYC</li>
+      </ul>
+      <p><strong>Trial: 350 MB for $1.95</strong><br />From $2/GB for custom 5 TB+ plans</p>
+      <p>Proposed promo: <strong>HEADLESS40</strong> — 40% off first regular purchase; trial excluded (activation pending)</p>
+      <p><a href="https://proxylane.dev/pricing?utm_source=headlessx&amp;utm_medium=sponsorship&amp;utm_campaign=premium-pilot&amp;utm_content=readme"><strong>View packages</strong></a> · <a href="docs/proxylane.md"><strong>Setup guide</strong></a></p>
     </td>
   </tr>
 </table>
