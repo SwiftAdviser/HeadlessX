@@ -168,27 +168,31 @@ I'm thankful to the people and companies who support HeadlessX. BirdProxies, Swi
     </td>
   </tr>
 
+  <tr>
+    <td colspan="2"><hr /></td>
+  </tr>
+  <tr>
+    <td width="440" align="center" valign="middle">
+      <a href="https://proxylane.dev/pricing?utm_source=headlessx&amp;utm_medium=sponsorship&amp;utm_campaign=premium-pilot&amp;utm_content=readme">
+        <img src="assets/proxylane-headlessx-sponsor.png" alt="ProxyLane — Long-running sessions with the same residential IP while the exit device stays online" width="420" />
+      </a>
+    </td>
+    <td valign="middle">
+      <a name="proxylane"></a>
+      <strong>Sponsored · ProxyLane — Residential proxies for long-running browser sessions and AI-agent workflows</strong>
+      <br /><br />
+      Keep the same residential IP across related browser steps, with no fixed session time limit while the exit device stays online. Choose an available country, city or ISP; rotate when you start an independent job.
+      <br /><br />
+      Connect through HeadlessX <strong>Settings → Proxy</strong> using <strong>HTTP</strong>, then verify your browser’s exit IP before testing your target. Start with <strong>350 MB for $1.95</strong> or <strong>1 GB for $6.50</strong>. Unused prepaid traffic never expires.
+      <br /><br />
+      Session continuity also depends on your browser profile and target site; a residential exit can go offline.
+      <br /><br />
+      <a href="https://proxylane.dev/pricing?utm_source=headlessx&amp;utm_medium=sponsorship&amp;utm_campaign=premium-pilot&amp;utm_content=readme"><strong>View packages</strong></a> · <a href="docs/proxylane.md"><strong>Connect &amp; verify exit IP</strong></a>
+    </td>
+  </tr>
 </table>
 
 </details>
-
-### Sponsored · ProxyLane
-
-<a href="https://proxylane.dev/pricing?utm_source=headlessx&amp;utm_medium=sponsorship&amp;utm_campaign=premium-pilot&amp;utm_content=readme">
-  <img src="assets/proxylane-headlessx-sponsor.png" alt="ProxyLane — Long-running sessions. Same residential IP. No fixed session limit while the exit device stays online. 350 MB for $1.95." width="1140" />
-</a>
-
-**ProxyLane — Residential proxies for long-running browser sessions and AI-agent workflows.**
-
-Keep the same residential IP across related browser steps, with no fixed session time limit while the exit device stays online. Choose an available country, city or ISP; rotate when you start an independent job.
-
-Connect through HeadlessX **Settings → Proxy** using **HTTP**, then verify your browser’s exit IP before testing your target.
-
-Start with **350 MB for $1.95** or **1 GB for $6.50**. Unused prepaid traffic never expires.
-
-Session continuity also depends on your browser profile and target site; a residential exit can go offline.
-
-[View packages](https://proxylane.dev/pricing?utm_source=headlessx&utm_medium=sponsorship&utm_campaign=premium-pilot&utm_content=readme) · [Connect & verify exit IP](docs/proxylane.md)
 
 ## Operators
 
